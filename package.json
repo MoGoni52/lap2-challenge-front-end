@@ -1,0 +1,28 @@
+{
+  "name": "lap2-challenge-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoGoni52/lap2-challenge-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoGoni52/lap2-challenge-front-end/issues"
+  },
+  "homepage": "https://github.com/MoGoni52/lap2-challenge-front-end#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
